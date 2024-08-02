@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/02 11:55:37.000.683,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:56:25.000.190,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\ArquiteturaLimpa\MainForm.dfm</Transaction>
+    <Transaction>2024/08/02 11:56:25.000.190,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\ArquiteturaLimpa\MainForm.pas</Transaction>
+    <Transaction>2024/08/02 11:56:27.000.782,D:\Delphi\Projetos Delphi 11\Project1.dproj=D:\Blog Delphi\projetos\ArquiteturaLimpa\Project1.dproj</Transaction>
+    <Transaction>2024/08/02 11:56:35.000.025,=D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:57:33.000.418,D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas=D:\Blog Delphi\projetos\ArquiteturaLimpa\ProductEntity.pas</Transaction>
+    <Transaction>2024/08/02 11:57:40.000.039,=D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:58:11.000.165,D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas=D:\Blog Delphi\projetos\ArquiteturaLimpa\ProductRepositoryInterface.pas</Transaction>
+    <Transaction>2024/08/02 11:58:25.000.739,=D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:59:19.000.275,D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas=D:\Blog Delphi\projetos\ArquiteturaLimpa\ProductUseCase.pas</Transaction>
+    <Transaction>2024/08/02 11:59:38.000.337,=D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:59:58.000.603,D:\Blog Delphi\projetos\ArquiteturaLimpa\Unit1.pas=D:\Blog Delphi\projetos\ArquiteturaLimpa\ProductRepository.pas</Transaction>
+  </Transactions>
+</BorlandProject>
